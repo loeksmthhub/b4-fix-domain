@@ -25,19 +25,3 @@
   | <URL>/list | 查看节点数据 |
   | <URL>/status | 查看后台进程 |
   | <URL>/listen | 查看后台监听端口 |
-
-<img width="1600" alt="image" src="https://user-images.githubusercontent.com/92626977/216796019-15e46823-c7b0-4a11-8128-31722e1bb76f.png">
-
-<img width="1201" alt="image" src="https://user-images.githubusercontent.com/92626977/216796097-6613030d-92b2-4472-b341-83abe4674b40.png">
-
-<img width="1090" alt="image" src="https://user-images.githubusercontent.com/92626977/221387459-30871976-7032-4993-9c46-244bdec7dc89.png">
-
-<img width="1428" alt="image" src="https://user-images.githubusercontent.com/92626977/218391090-c75f5d7c-7d9a-4112-ac4d-d2773d23a737.png">
-
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/92626977/216795556-37b51817-6971-4eee-980e-f96588ee04d7.png">
-
-<img width="966" alt="image" src="https://user-images.githubusercontent.com/92626977/216795892-f5fea4b4-680b-4ddd-8531-3e4af8bfa030.png">
-
-<img width="732" alt="image" src="https://user-images.githubusercontent.com/92626977/216795939-f58d663d-adad-4088-8898-ad271c24e762.png">
-
-<img width="499" alt="image" src="https://user-images.githubusercontent.com/92626977/212470733-446938ae-e403-424b-b7ce-51e775b30ed2.png">
